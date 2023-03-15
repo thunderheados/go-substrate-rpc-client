@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	. "github.com/centrifuge/go-substrate-rpc-client/v4/types"
-	. "github.com/centrifuge/go-substrate-rpc-client/v4/types/test_utils"
+	. "github.com/thunderheados/go-substrate-rpc-client/v4/types"
+	. "github.com/thunderheados/go-substrate-rpc-client/v4/types/test_utils"
 )
 
 func TestGenerateMMRProofResponse_Unmarshal(t *testing.T) {

@@ -21,7 +21,7 @@ import (
 	"hash"
 	"strings"
 
-	"github.com/centrifuge/go-substrate-rpc-client/v4/scale"
+	"github.com/thunderheados/go-substrate-rpc-client/v4/scale"
 )
 
 type MetadataV13 struct {
